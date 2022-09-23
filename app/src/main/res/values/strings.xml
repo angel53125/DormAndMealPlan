@@ -1,0 +1,22 @@
+<!--Angel Negron
+This file holds the strings for all words
+displayed in the app-->
+
+<resources>
+    <string name="app_name">Dorm And Meal Plan ANN</string>
+    <string name = "btn_cost">Calculate Cost</string>
+    <string name = "tv_cost">Total Cost:</string>
+    <string name = "tv_final_cost">Select two options</string>
+    <string name = "spin_dorm_hint">Dorms</string>
+    <string-array name="spin_dorms">
+        <item>Allen Hall $1800 per semester</item>
+        <item>Pike Hall $2200 per semester</item>
+        <item>Farthing $2800 per semester</item>
+        <item>University Suites $3000 per semester</item>
+        </string-array>
+    <string-array name="spin_meals">
+        <item>7 meals per week $600</item>
+        <item>14 meals per week $1100</item>
+        <item>Unlimited meals $1800</item>
+    </string-array>
+</resources>
